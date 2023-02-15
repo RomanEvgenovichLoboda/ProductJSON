@@ -75,13 +75,14 @@ public class Product {
     public void setRating(int rating) {
         Rating = rating;
     }
-
+   public void showInfo(){
+        System.out.println("\n Name - "+Name+"\n Id -"+Id+"\n Category - "+getCateg()+"\n Manufacturer - "+getManFact()+"\n Weight - "+Weight+"\n Price - "+Price+"\n Rating - "+Rating);
+   }
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("Product{");
         sb.append(", Id=").append(Id);
         sb.append("name='").append(Name).append('\'');
-
         sb.append(", Category=").append(getCateg()).append('\'');
         sb.append(", Manufacturer=").append(getManFact()).append('\'');
         sb.append(", Weight=").append(Weight);
