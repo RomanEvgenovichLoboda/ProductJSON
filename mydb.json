@@ -52,5 +52,59 @@
         "weight": 1,
         "manFact": "Adidas",
         "id": 0
+    },
+    {
+        "price": 100,
+        "name": "Banana",
+        "categ": "Vegitable",
+        "rating": 1,
+        "weight": 50,
+        "manFact": "Jingo",
+        "id": 0
+    },
+    {
+        "price": 200,
+        "name": "Cucumber",
+        "categ": "Vegitable",
+        "rating": 2,
+        "weight": 10,
+        "manFact": "Fingo",
+        "id": 0
+    },
+    {
+        "price": 900,
+        "name": "Cun",
+        "categ": "Weapon",
+        "rating": 10,
+        "weight": 1,
+        "manFact": "S&W",
+        "id": 0
+    },
+    {
+        "price": 1500,
+        "name": "Chear",
+        "categ": "Mebl",
+        "rating": 3,
+        "weight": 250,
+        "manFact": "Gus",
+        "id": 0
+    },
+    {
+        "price": 1000,
+        "name": "Jacket",
+        "categ": "Clows",
+        "rating": 11,
+        "weight": 0.2,
+        "manFact": "Nike",
+        "id": 0
+    },
+    {
+        "price": 1700,
+        "name": "Shues",
+        "categ": "Clows",
+        "rating": 7,
+        "weight": 1,
+        "manFact": "Adidas",
+        "id": 0
     }
 ]

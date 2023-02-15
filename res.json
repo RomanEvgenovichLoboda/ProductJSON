@@ -1,0 +1,22 @@
+[
+    "Vegitable",
+    "Weapon",
+    "Mebl",
+    "Clows",
+    "Product{, Id=0,name='Banana', Category=Vegitable', Manufacturer=Jingo', Weight=50.0, Price=100.0, Rating=1}",
+    "Product{, Id=0,name='Cucumber', Category=Vegitable', Manufacturer=Fingo', Weight=10.0, Price=200.0, Rating=2}",
+    "Product{, Id=0,name='Cun', Category=Weapon', Manufacturer=S&W', Weight=1.0, Price=900.0, Rating=10}",
+    "Product{, Id=0,name='Banana', Category=Vegitable', Manufacturer=Jingo', Weight=50.0, Price=100.0, Rating=1}",
+    "Product{, Id=0,name='Cucumber', Category=Vegitable', Manufacturer=Fingo', Weight=10.0, Price=200.0, Rating=2}",
+    "Product{, Id=0,name='Cun', Category=Weapon', Manufacturer=S&W', Weight=1.0, Price=900.0, Rating=10}",
+    "Product{, Id=0,name='Banana', Category=Vegitable', Manufacturer=Jingo', Weight=50.0, Price=100.0, Rating=1}",
+    "Product{, Id=0,name='Cucumber', Category=Vegitable', Manufacturer=Fingo', Weight=10.0, Price=200.0, Rating=2}",
+    "Product{, Id=0,name='Banana', Category=Vegitable', Manufacturer=Jingo', Weight=50.0, Price=100.0, Rating=1}",
+    "Product{, Id=0,name='Cucumber', Category=Vegitable', Manufacturer=Fingo', Weight=10.0, Price=200.0, Rating=2}",
+    "Product{, Id=0,name='Cucumber', Category=Vegitable', Manufacturer=Fingo', Weight=10.0, Price=200.0, Rating=2}",
+    "Product{, Id=0,name='Cucumber', Category=Vegitable', Manufacturer=Fingo', Weight=10.0, Price=200.0, Rating=2}",
+    "Product{, Id=0,name='Shues', Category=Clows', Manufacturer=Adidas', Weight=1.0, Price=1700.0, Rating=7}",
+    "Product{, Id=0,name='Shues', Category=Clows', Manufacturer=Adidas', Weight=1.0, Price=1700.0, Rating=7}",
+    "Product{, Id=0,name='Jacket', Category=Clows', Manufacturer=Nike', Weight=0.2, Price=1000.0, Rating=11}",
+    "Product{, Id=0,name='Jacket', Category=Clows', Manufacturer=Nike', Weight=0.2, Price=1000.0, Rating=11}"
+]

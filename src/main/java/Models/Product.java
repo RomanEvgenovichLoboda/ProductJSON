@@ -82,7 +82,7 @@ public class Product {
     public String toString() {
         final StringBuilder sb = new StringBuilder("Product{");
         sb.append(", Id=").append(Id);
-        sb.append("name='").append(Name).append('\'');
+        sb.append(",name='").append(Name).append('\'');
         sb.append(", Category=").append(getCateg()).append('\'');
         sb.append(", Manufacturer=").append(getManFact()).append('\'');
         sb.append(", Weight=").append(Weight);
